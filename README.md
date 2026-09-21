@@ -52,10 +52,6 @@ Portafolio personal (Next.js). Índice 3D y casos de los tres roles.
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gonzalo-Gimenez/Portfolio/main/public/covers/cover-insightai.png" alt="InsightAI workspace" />
-</div>
-
 ## Formación
 
 - Técnico Superior en Desarrollo de Software — IFTS 11
