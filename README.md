@@ -42,13 +42,7 @@ Técnico Superior en Desarrollo de Software y estudiante de la Licenciatura en C
 | Frontend | Next.js 15, React |
 | Infra | Docker Compose, Git, pytest |
 
-**[Portfolio](https://github.com/Gonzalo-Gimenez/Portfolio)** · Site
-
-Portafolio personal (Next.js)
-
-</td>
-</tr>
-</table>
+**Portafolio personal: [Portfolio](https://github.com/Gonzalo-Gimenez/Portfolio)**
 
 ## Formación
 
@@ -60,6 +54,6 @@ Portafolio personal (Next.js)
 
 <div align="center">
 
-[Contactame!](mailto:gonzalodangimenez@gmail.com).
+[Contactame!](mailto:gonzalodangimenez@gmail.com)
 
 </div>
