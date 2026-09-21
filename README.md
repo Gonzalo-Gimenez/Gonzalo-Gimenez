@@ -21,8 +21,8 @@ Técnico Superior en Desarrollo de Software (IFTS 11) y estudiante de la Licenci
 ## GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gonzalo-Gimenez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6ec8ff&icon_color=6ec8ff&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzalo-Gimenez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6ec8ff&text_color=c9d1d9" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gonzalo-Gimenez&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gonzalo-Gimenez&theme=github_dark" alt="Lenguajes" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Gonzalo-Gimenez&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6ec8ff&fire=6ec8ff&currStreakLabel=6ec8ff" alt="GitHub streak" />
 </div>
@@ -43,6 +43,34 @@ Técnico Superior en Desarrollo de Software (IFTS 11) y estudiante de la Licenci
 | Frontend | Next.js 15, React |
 | Infra | Docker Compose, Git, pytest |
 
+## Proyectos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[InsightAI](https://github.com/Gonzalo-Gimenez/InsightAI)** · AI Engineer
+
+BI conversacional: Groq no afirma un número si no lo sacó de una tool o de un `SELECT` validado. FastAPI + PostgreSQL (~190k líneas) + canvas Next.js.
+
+</td>
+<td width="50%" valign="top">
+
+**[Energy-Data](https://github.com/Gonzalo-Gimenez/Energy-Data)** · Data Analyst
+
+Pregunta de negocio → SQL reproducible en DuckDB. Límites del dataset escritos. Sin LLM en el MVP.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[AutoStock-Data](https://github.com/Gonzalo-Gimenez/AutoStock-Data)** · Data Engineer
+
+Pipeline de flota: validación → staging PostgreSQL → hechos. Job idempotente. Si la telemetría duplica, el reporte miente.
+
+</td>
+<td width="50%" valign="top">
 
 **[Portfolio](https://github.com/Gonzalo-Gimenez/Portfolio)** · Site
 
@@ -51,6 +79,10 @@ Portafolio personal (Next.js). Índice 3D y casos de los tres roles.
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gonzalo-Gimenez/Portfolio/main/public/covers/cover-insightai.png" alt="InsightAI workspace" />
+</div>
 
 ## Formación
 
