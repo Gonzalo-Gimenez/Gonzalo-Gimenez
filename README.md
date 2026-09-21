@@ -43,34 +43,6 @@ Técnico Superior en Desarrollo de Software (IFTS 11) y estudiante de la Licenci
 | Frontend | Next.js 15, React |
 | Infra | Docker Compose, Git, pytest |
 
-## Proyectos
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[InsightAI](https://github.com/Gonzalo-Gimenez/InsightAI)** · AI Engineer
-
-BI conversacional: Groq no afirma un número si no lo sacó de una tool o de un `SELECT` validado. FastAPI + PostgreSQL (~190k líneas) + canvas Next.js.
-
-</td>
-<td width="50%" valign="top">
-
-**[Energy-Data](https://github.com/Gonzalo-Gimenez/Energy-Data)** · Data Analyst
-
-Pregunta de negocio → SQL reproducible en DuckDB. Límites del dataset escritos. Sin LLM en el MVP.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[AutoStock-Data](https://github.com/Gonzalo-Gimenez/AutoStock-Data)** · Data Engineer
-
-Pipeline de flota: validación → staging PostgreSQL → hechos. Job idempotente. Si la telemetría duplica, el reporte miente.
-
-</td>
-<td width="50%" valign="top">
 
 **[Portfolio](https://github.com/Gonzalo-Gimenez/Portfolio)** · Site
 
@@ -86,14 +58,14 @@ Portafolio personal (Next.js). Índice 3D y casos de los tres roles.
 
 ## Formación
 
-- Técnico Superior en Desarrollo de Software — IFTS 11 (2025)
-- Licenciatura en Ciencia de Datos — Universidad de la Ciudad de Buenos Aires (en curso)
-- Inglés intermedio
+- Técnico Superior en Desarrollo de Software — IFTS 11
+- Licenciatura en Ciencia de Datos — Universidad de la Ciudad de Buenos Aires
+- Inglés
 
 ---
 
 <div align="center">
 
-Si buscás un perfil que ancla las respuestas a datos reales, [escribime](mailto:gonzalodangimenez@gmail.com).
+[escribime](mailto:gonzalodangimenez@gmail.com).
 
 </div>
