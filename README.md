@@ -1,9 +1,13 @@
 <div align="center">
 
+
 # Gonzalo Gimenez
 
+
 **AI Engineer · Data Analyst · Data Engineer**  
+
 Buenos Aires, Argentina
+
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gonzalo-gimenezs-projects.vercel.app)
@@ -54,6 +58,6 @@ Técnico Superior en Desarrollo de Software y estudiante de la Licenciatura en C
 
 <div align="center">
 
-[Contactame!](mailto:gonzalodangimenez@gmail.com)
+**[Contactame!](mailto:gonzalodangimenez@gmail.com)**
 
 </div>
