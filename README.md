@@ -44,15 +44,11 @@ Técnico Superior en Desarrollo de Software y estudiante de la Licenciatura en C
 
 **[Portfolio](https://github.com/Gonzalo-Gimenez/Portfolio)** · Site
 
-Portafolio personal (Next.js). Índice 3D y casos de los tres roles.
+Portafolio personal (Next.js)
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gonzalo-Gimenez/Portfolio/main/public/covers/cover-insightai.png" alt="InsightAI workspace" />
-</div>
 
 ## Formación
 
