@@ -5,7 +5,6 @@
 **AI Engineer · Data Analyst · Data Engineer**  
 Buenos Aires, Argentina
 
-El modelo no inventa cifras: consulta herramientas y SQL antes de responder.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gonzalo-gimenezs-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-gimenez-/)
@@ -16,7 +15,7 @@ El modelo no inventa cifras: consulta herramientas y SQL antes de responder.
 
 ---
 
-Técnico Superior en Desarrollo de Software (IFTS 11) y estudiante de la Licenciatura en Ciencia de Datos (Universidad de la Ciudad de Buenos Aires). Busco roles de **AI Engineer**, **Data Analyst** o **Data Engineer**.
+Técnico Superior en Desarrollo de Software y estudiante de la Licenciatura en Ciencia de Datos. Busco roles de **AI Engineer**, **Data Analyst** o **Data Engineer**.
 
 ## GitHub
 
@@ -43,35 +42,6 @@ Técnico Superior en Desarrollo de Software (IFTS 11) y estudiante de la Licenci
 | Frontend | Next.js 15, React |
 | Infra | Docker Compose, Git, pytest |
 
-## Proyectos
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[InsightAI](https://github.com/Gonzalo-Gimenez/InsightAI)** · AI Engineer
-
-BI conversacional: Groq no afirma un número si no lo sacó de una tool o de un `SELECT` validado. FastAPI + PostgreSQL (~190k líneas) + canvas Next.js.
-
-</td>
-<td width="50%" valign="top">
-
-**[Energy-Data](https://github.com/Gonzalo-Gimenez/Energy-Data)** · Data Analyst
-
-Pregunta de negocio → SQL reproducible en DuckDB. Límites del dataset escritos. Sin LLM en el MVP.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[AutoStock-Data](https://github.com/Gonzalo-Gimenez/AutoStock-Data)** · Data Engineer
-
-Pipeline de flota: validación → staging PostgreSQL → hechos. Job idempotente. Si la telemetría duplica, el reporte miente.
-
-</td>
-<td width="50%" valign="top">
-
 **[Portfolio](https://github.com/Gonzalo-Gimenez/Portfolio)** · Site
 
 Portafolio personal (Next.js). Índice 3D y casos de los tres roles.
@@ -94,6 +64,6 @@ Portafolio personal (Next.js). Índice 3D y casos de los tres roles.
 
 <div align="center">
 
-[escribime](mailto:gonzalodangimenez@gmail.com).
+[Contactame!](mailto:gonzalodangimenez@gmail.com).
 
 </div>
