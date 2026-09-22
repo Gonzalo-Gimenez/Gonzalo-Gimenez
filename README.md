@@ -33,15 +33,13 @@ Técnico Superior en Desarrollo de Software y estudiante de la Licenciatura en C
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,javascript,html,css,react,nextjs,nodejs,postgres,docker,git,linux" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,javascript,html,css,angular,react,nextjs,nodejs,mysql,postgres,mongodb,docker,git,linux,cursor,claude,copilot,opencode,pi,n8n" alt="Stack" />
 </div>
-
-<br/>
 
 | Área | Herramientas |
 |------|----------------|
 | Datos | PostgreSQL, DuckDB, pandas, SQL |
-| IA | Groq, tool calling, SELECT de solo lectura |
+| IA | Groq, tool calling, Fine Tuning |
 | Backend | FastAPI, Pydantic |
 | Frontend | Next.js 15, React |
 | Infra | Docker Compose, Git, pytest |
