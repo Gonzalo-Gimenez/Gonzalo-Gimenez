@@ -4,7 +4,7 @@
 # Gonzalo Gimenez
 
 
-**AI Engineer · Data Analyst · Data Engineer**  
+**AI Engineer, Data & Desarrollo de Software**  
 
 Buenos Aires, Argentina
 
